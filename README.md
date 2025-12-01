@@ -14,6 +14,16 @@ Built with the tools and technologies:
 
 </div>
 
+---
+
+<div align="center">
+    ![Calculator Screenshot](https://via.placeholder.com/600x300?text=Your+Calculator+Screenshot+Here)
+    <br>
+    *A simple interface for calculations with history.*
+</div>
+
+---
+
 ## 
 ## Table of Contents
 * [Overview](#overview)
