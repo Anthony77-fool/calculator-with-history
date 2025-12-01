@@ -17,10 +17,9 @@ Built with the tools and technologies:
 ---
 
 <div align="center">
-    ![image_alt](https://github.com/Anthony77-fool/calculator-with-history/blob/1751741020068b7a67bdf416807c2ddc18a19d0b/calculator-with-history-sample.png)
-    <br>
-    *A simple interface for calculations with history.*
+    <img src="https://raw.githubusercontent.com/Anthony77-fool/calculator-with-history/1751741020068b7a67bdf416807c2ddc18a19d0b/calculator-with-history-sample.png" alt="image_alt" width="400">
 </div>
+
 
 ---
 
