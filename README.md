@@ -17,7 +17,7 @@ Built with the tools and technologies:
 ---
 
 <div align="center">
-    ![Calculator Screenshot](https://via.placeholder.com/600x300?text=Your+Calculator+Screenshot+Here)
+    ![Calculator Screenshot](https://github.com/Anthony77-fool/calculator-with-history/blob/main/calculator-with-history-sample.png?raw=true)
     <br>
     *A simple interface for calculations with history.*
 </div>
